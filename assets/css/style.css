@@ -1,0 +1,12 @@
+body {background-color: gray;}
+
+
+.btn {color:white; background-color: green;}
+
+.choice {
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
