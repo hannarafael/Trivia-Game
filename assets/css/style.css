@@ -1,7 +1,14 @@
-body {background-color: gray;}
+body {
+    background-color:teal;
+    color: aliceblue;
+
+}
 
 
-.btn {color:white; background-color: green;}
+.btn {
+    color:white; 
+    color:blueviolet;
+}
 
 .choice {
     border: 1px solid lightgrey;
@@ -9,4 +16,9 @@ body {background-color: gray;}
     border-radius: 4px;
     cursor: pointer;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jumbotron {
+    color: black;
+    background-color: blueviolet;
 }
